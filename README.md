@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @loqshem
+- 👋 Hi, I’m @haykvasilyan
 - 👀 I’m interested in +-weird stuff  
 - 🌱 I’m currently learning Linux and Java
 - 😄 Pronouns: attack helicopter.
